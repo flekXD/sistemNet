@@ -1,0 +1,14 @@
+C:\Users\Fleks\source\repos\DiskInfo\DiskInfo\bin\Debug\net8.0\DiskInfo.exe
+C:\Users\Fleks\source\repos\DiskInfo\DiskInfo\bin\Debug\net8.0\DiskInfo.deps.json
+C:\Users\Fleks\source\repos\DiskInfo\DiskInfo\bin\Debug\net8.0\DiskInfo.runtimeconfig.json
+C:\Users\Fleks\source\repos\DiskInfo\DiskInfo\bin\Debug\net8.0\DiskInfo.dll
+C:\Users\Fleks\source\repos\DiskInfo\DiskInfo\bin\Debug\net8.0\DiskInfo.pdb
+C:\Users\Fleks\source\repos\DiskInfo\DiskInfo\obj\Debug\net8.0\DiskInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fleks\source\repos\DiskInfo\DiskInfo\obj\Debug\net8.0\DiskInfo.AssemblyInfoInputs.cache
+C:\Users\Fleks\source\repos\DiskInfo\DiskInfo\obj\Debug\net8.0\DiskInfo.AssemblyInfo.cs
+C:\Users\Fleks\source\repos\DiskInfo\DiskInfo\obj\Debug\net8.0\DiskInfo.csproj.CoreCompileInputs.cache
+C:\Users\Fleks\source\repos\DiskInfo\DiskInfo\obj\Debug\net8.0\DiskInfo.dll
+C:\Users\Fleks\source\repos\DiskInfo\DiskInfo\obj\Debug\net8.0\refint\DiskInfo.dll
+C:\Users\Fleks\source\repos\DiskInfo\DiskInfo\obj\Debug\net8.0\DiskInfo.pdb
+C:\Users\Fleks\source\repos\DiskInfo\DiskInfo\obj\Debug\net8.0\DiskInfo.genruntimeconfig.cache
+C:\Users\Fleks\source\repos\DiskInfo\DiskInfo\obj\Debug\net8.0\ref\DiskInfo.dll

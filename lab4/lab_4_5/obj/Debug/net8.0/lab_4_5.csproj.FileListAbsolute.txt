@@ -1,0 +1,14 @@
+C:\Users\Fleks\source\repos\lab_4_4\lab_4_5\bin\Debug\net8.0\lab_4_5.exe
+C:\Users\Fleks\source\repos\lab_4_4\lab_4_5\bin\Debug\net8.0\lab_4_5.deps.json
+C:\Users\Fleks\source\repos\lab_4_4\lab_4_5\bin\Debug\net8.0\lab_4_5.runtimeconfig.json
+C:\Users\Fleks\source\repos\lab_4_4\lab_4_5\bin\Debug\net8.0\lab_4_5.dll
+C:\Users\Fleks\source\repos\lab_4_4\lab_4_5\bin\Debug\net8.0\lab_4_5.pdb
+C:\Users\Fleks\source\repos\lab_4_4\lab_4_5\obj\Debug\net8.0\lab_4_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fleks\source\repos\lab_4_4\lab_4_5\obj\Debug\net8.0\lab_4_5.AssemblyInfoInputs.cache
+C:\Users\Fleks\source\repos\lab_4_4\lab_4_5\obj\Debug\net8.0\lab_4_5.AssemblyInfo.cs
+C:\Users\Fleks\source\repos\lab_4_4\lab_4_5\obj\Debug\net8.0\lab_4_5.csproj.CoreCompileInputs.cache
+C:\Users\Fleks\source\repos\lab_4_4\lab_4_5\obj\Debug\net8.0\lab_4_5.dll
+C:\Users\Fleks\source\repos\lab_4_4\lab_4_5\obj\Debug\net8.0\refint\lab_4_5.dll
+C:\Users\Fleks\source\repos\lab_4_4\lab_4_5\obj\Debug\net8.0\lab_4_5.pdb
+C:\Users\Fleks\source\repos\lab_4_4\lab_4_5\obj\Debug\net8.0\lab_4_5.genruntimeconfig.cache
+C:\Users\Fleks\source\repos\lab_4_4\lab_4_5\obj\Debug\net8.0\ref\lab_4_5.dll
