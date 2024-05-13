@@ -1,0 +1,6 @@
+C:\Users\Fleks\source\repos\lab_1_1\lab1_2\obj\Debug\net8.0-windows\lab1_2.Form1.resources
+C:\Users\Fleks\source\repos\lab_1_1\lab1_2\obj\Debug\net8.0-windows\lab_1_2.csproj.GenerateResource.cache
+C:\Users\Fleks\source\repos\lab_1_1\lab1_2\obj\Debug\net8.0-windows\lab_1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fleks\source\repos\lab_1_1\lab1_2\obj\Debug\net8.0-windows\lab_1_2.AssemblyInfoInputs.cache
+C:\Users\Fleks\source\repos\lab_1_1\lab1_2\obj\Debug\net8.0-windows\lab_1_2.AssemblyInfo.cs
+C:\Users\Fleks\source\repos\lab_1_1\lab1_2\obj\Debug\net8.0-windows\lab_1_2.csproj.CoreCompileInputs.cache
